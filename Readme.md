@@ -62,7 +62,7 @@ Want to join in or review? Feel free to fork this repo, suggest improvements, or
 
 ## 📬 Contact
 
-**Satya Prakash**  
+**Satya Prakash Behera**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/satya-prakash-behera007) | [GitHub](https://github.com/Satya-geek7)  
 Email: the.satyabehera@gmail.com  
 
