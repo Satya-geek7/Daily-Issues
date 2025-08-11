@@ -27,9 +27,9 @@
 
 ## 📬 Connect With Me
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Twitter/X**: [@yourusername](https://twitter.com/yourusername)
+- **GitHub**: [@satyageek7](https://github.com/satyageek7)
+- **LinkedIn**: [linkedin.com/in/satya.prakash11](https://linkedin.com/in/satya.prakash11)
+- **Twitter/X**: [@TheSatyabehera](https://twitter.com/TheSatyabehera)
 
 ---
 
