@@ -1,76 +1,37 @@
-# 🛠️ Daily Issue Solving
+---
 
-Welcome to my **Daily Issue Solving** repository! This repo documents my journey of solving one coding issue, bug, or feature implementation challenge every day — across real-world projects, open source issues, or learning platforms.
+## 📊 Progress Tracker
+
+| Date       | Repo / Project | Issue Link | PR Link | Status |
+|------------|---------------|------------|---------|--------|
+| 2025-08-11 | example/repo   | [#123](https://github.com/example/repo/issues/123) | [PR #456](https://github.com/example/repo/pull/456) | ✅ Merged |
 
 ---
 
-## 🌟 Purpose
+## 🤝 How You Can Help
 
-To become a better problem-solver and contributor by:
-- Tackling **real-world issues** regularly
-- Learning from **open-source repositories**
-- Strengthening **debugging and development skills**
-- Building a consistent **developer habit**
+- Suggest interesting issues to solve.
+- Share repositories that need contributors.
+- Give feedback on my solutions.
 
 ---
 
-## 📅 Daily Log
+## 🛠 Tech Stack I Use
 
-Each day includes:
-- 🐞 **Problem/Issue Description**
-- ⚙️ **Steps Taken to Solve**
-- ✅ **Solution or Fix**
-- 💡 **What I Learned**
-
-Check the [`daily`](./daily) folder for daily logs or issue breakdowns.
+- **Languages**: JavaScript, TypeScript, Python, C++, Java
+- **Frameworks**: React, Next.js, Node.js, Django
+- **Tools**: Git, GitHub CLI, Docker
+- **Other Skills**: Testing, API integration, Debugging
 
 ---
 
+## 📬 Connect With Me
+
+- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **Twitter/X**: [@yourusername](https://twitter.com/yourusername)
 
 ---
 
-## 📚 Tech Stack Covered
-
-- JavaScript / TypeScript
-- React / Next.js
-- Node.js
-- Git & GitHub
-- REST APIs
-- Debugging Tools (DevTools, Logs, Breakpoints)
-- Open Source Issues (tagged `good first issue`, `help wanted`)
-
----
-
-## 🚀 How It Helps
-
-- 📈 Improves consistency and discipline
-- 🧩 Deepens understanding of real-world codebases
-- 💬 Helps in explaining issues clearly (important for jobs!)
-- 🧠 Builds a rich knowledge base to refer back to
-
----
-
-
-
----
-
-## 🛠️ Contribute or Collaborate
-
-Want to join in or review? Feel free to fork this repo, suggest improvements, or raise an issue!
-
----
-
-## 📬 Contact
-
-**Satya Prakash Behera**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/satya-prakash-behera007) | [GitHub](https://github.com/Satya-geek7)  
-Email: the.satyabehera@gmail.com  
-
----
-
-## ⭐ Motivation
-
-> "Consistency creates mastery. One issue a day keeps confusion away."
-
-If you like this project, give it a ⭐ to support the journey!
-
+> _"Little drops of water make the mighty ocean."_  
+> — Every daily contribution adds up! 🚀
